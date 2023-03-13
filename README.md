@@ -13,6 +13,24 @@ Vision-based damage detection techniques can reduce sensor deployment costs whil
 
 [[2](https://doi.org/10.1016/j.measurement.2022.112218)] R. Lado-Roigé, J. Font-Moré, M. A. Pérez, Measurement(2023)
 
+## Slides
+![Slide 1](Assets/img0.png)
+![Slide 2](Assets/img1.png)
+![Slide 3](Assets/img2.png)
+![Slide 4](Assets/img3.png)
+![Slide 5](Assets/img4.png)
+![Slide 6](Assets/img5.png)
+![Slide 7](Assets/img6.png)
+![Slide 8](Assets/img7.png)
+![Slide 9](Assets/img8.png)
+![Slide 10](Assets/img9.png)
+![Slide 11](Assets/img10.png)
+![Slide 12](Assets/img11.png)
+![Slide 13](Assets/img12.png)
+![Slide 14](Assets/img13.png)
+![Slide 15](Assets/img14.png)
+![Slide 16](Assets/img15.png)
+
 ## Resources
 
 ### Wheel_00 Original:
@@ -40,21 +58,3 @@ https://user-images.githubusercontent.com/25719985/224739358-417ef3c0-cb4f-4cfa-
 - Lado-Roigé, R., & Pérez, M. A. (2022). STB-VMM: Swin Transformer Based Video Motion Magnification (Version v1.0.0) [[Computer software](https://github.com/RLado/STB-VMM)]
 
 - Lado-Roigé, R., & Pérez, M. A. (2022). ViMag: A Visual Vibration Toolbox (Version v0.1.6) [[Computer software](https://github.com/RLado/ViMag)]
-
-## Slides
-![Slide 1](Assets/img0.png)
-![Slide 2](Assets/img1.png)
-![Slide 3](Assets/img2.png)
-![Slide 4](Assets/img3.png)
-![Slide 5](Assets/img4.png)
-![Slide 6](Assets/img5.png)
-![Slide 7](Assets/img6.png)
-![Slide 8](Assets/img7.png)
-![Slide 9](Assets/img8.png)
-![Slide 10](Assets/img9.png)
-![Slide 11](Assets/img10.png)
-![Slide 12](Assets/img11.png)
-![Slide 13](Assets/img12.png)
-![Slide 14](Assets/img13.png)
-![Slide 15](Assets/img14.png)
-![Slide 16](Assets/img15.png)
